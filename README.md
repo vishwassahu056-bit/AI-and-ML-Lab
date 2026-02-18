@@ -1,2 +1,2 @@
 # AI-and-ML-Lab
-AI and ML question given on 11 Jan 2026
+this repository contains Machine Learning lab Question
